@@ -1,7 +1,5 @@
 # ATS-Resume-Analyzer
 
-# ATS Resume Analyzer
-
 An AI-powered interview preparation app. Upload your resume (or write a short self-description), paste a job description, and get a personalised interview plan: match score, technical and behavioural questions with model answers, skill gaps, and a day-by-day preparation roadmap.
 
 Built with the MERN stack and Google Gemini.
